@@ -60,3 +60,42 @@ header {
   background-color: #3b5998;
   color: white;
 }
+
+main {
+  margin-left: 200px;
+  margin-right: 200px;
+}
+
+.home-category {
+  margin-top: 80px;
+  display: flex;
+}
+
+.merchant {
+  background-color: white;
+  width: 450px;
+  text-align: center;
+}
+
+#merchant-p {
+  color: #797575;
+}
+
+#merchant-btn {
+  margin-top: 50px;
+}
+
+.association {
+  background-color: white;
+  width: 450px;
+  text-align: center;
+  margin-left: 300px;
+}
+
+#association-p {
+  color: #797575;
+}
+
+#association-btn {
+  margin-top: 50px;
+}
